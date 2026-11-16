@@ -48,6 +48,3 @@ Je m'intéresse à la data science et au machine learning : nettoyer des donnée
 
 N'hésitez pas à me contacter pour échanger sur la data ou pour une opportunité d'alternance !
 
----
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=yanhjunior&show_icons=true&hide_border=true&locale=fr)
