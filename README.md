@@ -1,4 +1,4 @@
-# Bonjour, je suis Yanh Junior Makembi 👋
+# Bonjour, je suis Yanh Junior Makembi 
 
 Étudiant en 3ᵉ année du **Bachelor Développeur Data & IA** à l'**ECE Paris**.
 Je m'intéresse à la data science et au machine learning : nettoyer des données, les comprendre et construire des modèles qui répondent à de vraies questions.
