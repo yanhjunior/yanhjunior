@@ -3,21 +3,21 @@
 Étudiant en 3ᵉ année du **Bachelor Développeur Data & IA** à l'**ECE Paris**.
 Je m'intéresse à la data science et au machine learning : nettoyer des données, les comprendre et construire des modèles qui répondent à de vraies questions.
 
-🎯 **Je recherche une alternance Data Scientist / Data Analyst ou Développeur Python**
+ **Je recherche une alternance Data Scientist / Data Analyst ou Développeur Python**
 
-📅 Disponible dès maintenant · 12 à 24 mois · rythme 3 semaines entreprise / 2 semaines école
+ Disponible dès maintenant · 12 à 24 mois · rythme 3 semaines entreprise / 2 semaines école
 
-📍 Région parisienne (Massy) ou remote
+ Région parisienne (Massy) ou remote
 
 ---
 
-## 🔭 En ce moment
+## En ce moment
 
-- 📚 J'approfondis le **data mining** et les principaux algorithmes de machine learning
-- 🗂️ Je réalise des projets à partir de **données ouvertes (open data)**
-- 🤝 Je cherche une entreprise pour mettre ces compétences en pratique en alternance
+-  J'approfondis le **data mining** et les principaux algorithmes de machine learning
+-  Je réalise des projets à partir de **données ouvertes (open data)**
+-  Je cherche une entreprise pour mettre ces compétences en pratique en alternance
 
-## 🛠️ Compétences
+##  Compétences
 
 **Langages & données**
 
@@ -37,14 +37,14 @@ Je m'intéresse à la data science et au machine learning : nettoyer des donnée
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-## 📂 Projets
+##  Projets
 
 | Projet | Description | Méthodes |
 |---|---|---|
-| 🚢 [**Titanic – Prédiction de survie (kNN)**](https://github.com/yanhjunior/titanic-survival-knn) | Prédire la survie des passagers du Titanic à partir de leurs caractéristiques. | Nettoyage, encodage, normalisation, choix de *k* par validation croisée, k-Nearest Neighbors |
-| 📶 [**Télécom – Prédiction de consommation data**](https://github.com/yanhjunior/telecom-data-usage-prediction) | Prédire la consommation mensuelle de data (Go) d'un client à partir du prix de son forfait. | Régression linéaire simple, baseline par la moyenne, évaluation train/test (RMSE, R²) |
+|  [**Titanic – Prédiction de survie (kNN)**](https://github.com/yanhjunior/titanic-survival-knn) | Prédire la survie des passagers du Titanic à partir de leurs caractéristiques. | Nettoyage, encodage, normalisation, choix de *k* par validation croisée, k-Nearest Neighbors |
+|  [**Télécom – Prédiction de consommation data**](https://github.com/yanhjunior/telecom-data-usage-prediction) | Prédire la consommation mensuelle de data (Go) d'un client à partir du prix de son forfait. | Régression linéaire simple, baseline par la moyenne, évaluation train/test (RMSE, R²) |
 
-## 📫 Me contacter
+##  Me contacter
 
 N'hésitez pas à me contacter pour échanger sur la data ou pour une opportunité d'alternance !
 
